@@ -1,0 +1,6 @@
+CMakeFiles
+build
+*.mp4
+samples
+.direnv
+output.mp4.bak
